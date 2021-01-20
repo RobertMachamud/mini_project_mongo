@@ -1,1 +1,3 @@
-console.log("Hello hure")
+$(document).ready(function(){
+    $('.sidenav').sidenav({edge: "right"});
+  });
